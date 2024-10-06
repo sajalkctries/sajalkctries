@@ -40,7 +40,7 @@
 
 <h2 align="left">Projects</h2>
 
-- [Gym App](https://vercel.com/sajal-kcs-projects/gym-website)
+- [Gym App](https://gym-website-chi-ivory.vercel.app/)
 - [Music Recommendation App](https://music-recommendation-app-eight.vercel.app/)
 
 
