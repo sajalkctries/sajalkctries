@@ -39,6 +39,7 @@
 </div>
 
 <h2 align="left">Projects</h2>
+  -[Gym-app]  (https://vercel.com/sajal-kcs-projects/gym-website)
 
 - [Music Recommendation App](https://music-recommendation-app-eight.vercel.app/)
 
